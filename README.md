@@ -1,6 +1,6 @@
 # PyPassGen 🛡️🔑
 
-A cross‑platform desktop application built with Python and PyQt5 that helps you generate secure, truly random passwords in just a few clicks.
+An application built with Python and PyQt5 that helps you generate secure, truly random passwords in just a few clicks.
 
 
 ## 🧐 Overview
@@ -31,7 +31,7 @@ Ideal for developers, system administrators, and everyday users who need solid p
 
 ### Prerequisites
 
-- **Python 3.7+**  
+- **Python 3+**  
 - **pip** (usually bundled with Python)  
 - Development libraries for PyQt5 (if your system requires them)
 
