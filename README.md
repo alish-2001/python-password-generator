@@ -2,7 +2,6 @@
 
 A cross‑platform desktop application built with Python and PyQt5 that helps you generate secure, truly random passwords in just a few clicks.
 
----
 
 ## 🧐 Overview
 
