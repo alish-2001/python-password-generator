@@ -4,27 +4,6 @@ A cross‑platform desktop application built with Python and PyQt5 that helps yo
 
 ---
 
-## 📥 Table of Contents
-
-1. [Overview](#overview)  
-2. [Features](#features)  
-3. [Screenshots](#screenshots)  
-4. [Getting Started](#getting-started)  
-   - [Prerequisites](#prerequisites)  
-   - [Installation](#installation)  
-   - [Launching the App](#launching-the-app)  
-5. [Usage](#usage)  
-6. [Configuration & Customization](#configuration--customization)  
-7. [Project Structure](#project-structure)  
-8. [Development Workflow](#development-workflow)  
-9. [Packaging & Distribution](#packaging--distribution)  
-10. [Roadmap](#roadmap)  
-11. [Contributing](#contributing)  
-12. [License](#license)  
-13. [Acknowledgements](#acknowledgements)  
-
----
-
 ## 🧐 Overview
 
 Strong, unpredictable passwords are the first line of defense against unauthorized access. **PyPassGen** provides:
