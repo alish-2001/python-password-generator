@@ -14,7 +14,6 @@ Strong, unpredictable passwords are the first line of defense against unauthoriz
 
 Ideal for developers, system administrators, and everyday users who need solid password hygiene without fuss.
 
----
 
 ## ✨ Features
 
@@ -27,7 +26,6 @@ Ideal for developers, system administrators, and everyday users who need solid p
 - **Clipboard Integration**: Instantly copy your new password.  
 - **Entropy Meter**: Visual gauge estimating password strength.  
 
----
 
 ## 🚀 Getting Started
 
